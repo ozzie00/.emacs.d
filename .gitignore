@@ -1,0 +1,7 @@
+# avoid ignoring
+!init.el
+
+# avoid ignoring lisp
+!lisp
+
+# avoid ignoring site-lisp folder
