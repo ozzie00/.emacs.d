@@ -65,7 +65,7 @@
 (require 'init-grep)
 (require 'init-uniquify)
 (require 'init-ibuffer)
-(require 'ido)
+(require 'init-ido)
 (require 'init-flymake)
 (require 'init-google-c-style)
 (require 'init-eglot)
